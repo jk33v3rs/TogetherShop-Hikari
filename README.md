@@ -46,44 +46,13 @@
 
 <!-- Images/Badges -->
 
-[codacyBadge]: https://app.codacy.com/project/badge/Grade/a04ef7174d9f4e65b60ae28b09222809
-
-[codeFactorBadge]: https://www.codefactor.io/repository/github/ghost-chu/quickshop-hikari/badge
-
-[codeScoreBadge]: https://api.codiga.io/project/32011/score/svg
-
-[licenseBadge]: https://img.shields.io/github/license/Ghost-chu/QuickShop-Hikari.svg
-
-[contributorsBadge]: https://img.shields.io/github/contributors/Ghost-chu/QuickShop-Hikari
-
-[passedTests]: https://img.shields.io/jenkins/tests?compact_message&jobUrl=https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Hikari
-
-[fossaStatusBadge]: https://app.fossa.com/api/projects/git%2Bgithub.com%2FGhost-chu%2FQuickShop-Hikari.svg?type=shield
-
-[fossaStatusImageLarge]: https://app.fossa.com/api/projects/git%2Bgithub.com%2FGhost-chu%2FQuickShop-Hikari.svg?type=large
-
-[JavaVersion]: https://img.shields.io/badge/Java-Versions_17_+_18-orange.svg
-
-[MinecraftVersion]: https://img.shields.io/badge/Minecraft-Java%20Edition%201.18%2B-blueviolet
-
-[bStatsImage]: https://bstats.org/signatures/bukkit/QuickShop-Hikari.svg
-
-[Ver]: https://img.shields.io/spiget/version/100125?label=version
-
 <!-- Unused? -->
 <!-- [//]: # (![Downloads]&#40;https://img.shields.io/spiget/downloads/62575?label=downloads&#41;) -->
 <!-- [//]: # (![Rating]&#40;https://img.shields.io/spiget/rating/62575?label=rating&#41;) -->
 
 <!-- Start of README -->
 
-# QuickShop-Hikari
-
-[![codacyBadge]][codacy]
-[![codeScoreBadge]][codeScore]
-[![licenseBadge]][license]
-[![contributorsBadge]][contributors]
-![passedTests]
-[![fossaStatusBadge]][fossaStatus]
+# TogetherShop-Hikari, or, one man's attempt to see if he can figure out how to make that one plugin do a half-baked thing.
 
 ![JavaVersion]
 ![MinecraftVersion]
@@ -91,16 +60,24 @@
 
 ## Introduction
 
-QuickShop Hikari is a Shop plugin that allows players to create Chest Shops to easily sell and buy items, without the
-need for any commands.  
+TogetherShop Hikari is pretty much mostly Quickshop-Hikari, a Shop plugin that allows Minecraft players to easily sell and buy items, main difference being that I broke this version. 
 In fact, all commands in QuickShop are not even needed for normal gameplay.
 
-This version of QuickShop ([Ghost-chu/QuickShop-Hikari][quickshop-hikari]) is a fork
+This version of QuickShop is a fork from ([Ghost-chu/QuickShop-Hikari][quickshop-hikari]) which is a fork
 from [PotatoCraft-Studio's version][quickshop-potato] which itself is a fork from the [Reremake][quickshop-ghostchu] of
 the [original QuickShop][quickshop-original].
 
-QuickShop Hikari is maintained by Ghost-Chu and has the goal to modernize the core content of QuickShop and adapt it to
-the latest versions of Minecraft.
+QuickShop Hikari is maintained by the Quickshop community, at time of writing including Ghost-Chu along with a bit of a who's who of PaperMC economy plugin authors in 2024 (BOTH of them can you believe it??! XD ),
+ and has the goal to modernize the core content of QuickShop and adapt it to the latest versions of Minecraft.
+
+TogetherShop Hikari stands against that tradition by playing with buttons and dials mostly at random to see what happens. 
+
+If this version says it's working on a CI, I've either figured out how to trick the CI into issuing a false positive, or simply just outright faked it in MS Paint or something. 
+
+# Note the below contact details are NOT for me - 
+
+They are for the talent (QS Community) whom you actually want to speak to... 
+Although by this far into doing this bit, if youre still reading this there's something wrong in your brain and who knows what you want...
 
 ## Community & Support
 
